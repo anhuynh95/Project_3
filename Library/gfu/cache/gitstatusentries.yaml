@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-10-21T18:20:27.591-05:00
+  initializedAtString: 2018-10-21T18:05:00.227-05:00
+  entries:
+  - path: Library\assetDatabase3
+    fullPath: D:\Temp\Project_3\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: D:\Temp\Project_3\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Temp\Project_3\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Temp\Project_3\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Temp\Project_3\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Temp\Project_3\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Temp\Project_3\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\90\902102dd0818cbe4aa979f3fb6e30bed.info
+    fullPath: D:\Temp\Project_3\Library\metadata\90\902102dd0818cbe4aa979f3fb6e30bed.info
+    projectPath: Library\metadata\90\902102dd0818cbe4aa979f3fb6e30bed.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\e1\e179085c7f984f64cbe12de036b6b5b4.info
+    fullPath: D:\Temp\Project_3\Library\metadata\e1\e179085c7f984f64cbe12de036b6b5b4.info
+    projectPath: Library\metadata\e1\e179085c7f984f64cbe12de036b6b5b4.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\Temp\Project_3\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    fullPath: D:\Temp\Project_3\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Temp\Project_3\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: D:\Temp\Project_3\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: D:\Temp\Project_3\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: D:\Temp\Project_3\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-013583a5d901f0742a9943649a5a92ee
+    fullPath: D:\Temp\Project_3\Temp\UnityTempFile-013583a5d901f0742a9943649a5a92ee
+    projectPath: Temp\UnityTempFile-013583a5d901f0742a9943649a5a92ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-194ab49c4e7456a488c671c2a8f61919
+    fullPath: D:\Temp\Project_3\Temp\UnityTempFile-194ab49c4e7456a488c671c2a8f61919
+    projectPath: Temp\UnityTempFile-194ab49c4e7456a488c671c2a8f61919
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1c04268292bb9844ea18e009e2c81fcb
+    fullPath: D:\Temp\Project_3\Temp\UnityTempFile-1c04268292bb9844ea18e009e2c81fcb
+    projectPath: Temp\UnityTempFile-1c04268292bb9844ea18e009e2c81fcb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5999a95790502f846b0485be110c0098
+    fullPath: D:\Temp\Project_3\Temp\UnityTempFile-5999a95790502f846b0485be110c0098
+    projectPath: Temp\UnityTempFile-5999a95790502f846b0485be110c0098
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-731b7a6230f8271409a993f1cb6bb0ac
+    fullPath: D:\Temp\Project_3\Temp\UnityTempFile-731b7a6230f8271409a993f1cb6bb0ac
+    projectPath: Temp\UnityTempFile-731b7a6230f8271409a993f1cb6bb0ac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c0d592b8a80fd094a82d7f988a6ba9ff
+    fullPath: D:\Temp\Project_3\Temp\UnityTempFile-c0d592b8a80fd094a82d7f988a6ba9ff
+    projectPath: Temp\UnityTempFile-c0d592b8a80fd094a82d7f988a6ba9ff
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f8da07d78ed2bef42b1af7528d2267f0
+    fullPath: D:\Temp\Project_3\Temp\UnityTempFile-f8da07d78ed2bef42b1af7528d2267f0
+    projectPath: Temp\UnityTempFile-f8da07d78ed2bef42b1af7528d2267f0
+    originalPath: 
+    status: 1
+    staged: 0
